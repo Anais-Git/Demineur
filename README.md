@@ -17,7 +17,7 @@ Un jeu de Démineur écrit en Java avec une interface graphique (Swing).
 
 
 ## Structure du projet
-.
+```
 Démineur/
 ├── lib/
 │ └── Demineur.java # Logique principale du jeu
@@ -30,7 +30,7 @@ Démineur/
 │ └── DemineurUI.java # Interface graphique Swing
 ├── Application.java # Programme
 └── README.md
-
+```
 
 ## Choix des classes
 
