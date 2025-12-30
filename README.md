@@ -34,7 +34,7 @@ Démineur/
 
 ## Choix des classes
 
-J'ai choisi de créer uniquement 2 classes, AbstractCell (qui est concrète) et Demineur. Pour ne pas différencier en 2 classes les cellules bombes et celles de base. J'ai choisi de créer plutôt une variable "bomb" qui défini si la cellule est une bombe ou non. Cela me paraissait plus simple.
+J'ai choisi de créer uniquement 2 classes, AbstractCell (qui est concrète) et Demineur. Pour ne pas différencier en 2 classes les cellules bombes et celles de base, j'ai choisi de créer plutôt une variable "bomb" qui défini si la cellule est une bombe ou non. Cela me paraissait plus simple.
 La classe Demineur défini toutes les fonctionnalités du jeu.
 
 ## Lancer le projet
